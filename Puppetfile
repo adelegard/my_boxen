@@ -55,3 +55,20 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "mysql",			"1.2.0"
+github "mongodb",		"1.0.5"
+github "skype",			"1.0.7"
+github "spotify",		"1.0.1"
+github "vmware_fusion", "1.1.0"
+github "firefox",		"1.1.5"
+github "chrome",		"1.1.2"
+github "intellij",		"1.4.0"
+github "java",			"1.1.0"
+github "charles",		"1.0.2"
+github "zsh",			"1.0.0"
+
+
+
+
+
